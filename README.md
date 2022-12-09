@@ -13,4 +13,4 @@
   + Staking, yield farming, lottery, prediction smart contracts
 - 📫 How to reach me:
   + email: quanlv.fw@gmail.com
-  + linkedin: [Quan Le](linkedin.com/in/quanlv/)
+  + linkedin: [Quan Le](https://www.linkedin.com/in/quanlv/)
