@@ -14,4 +14,4 @@
 - 📫 How to reach me:
   + Email: quanlv.fw@gmail.com
   + Linkedin: [linkedin.com/in/quanlv/](https://www.linkedin.com/in/quanlv/)
-  + Discord: quanlv#5377
+  + Discord: [quanlv#5377](https://discord.com/channels/@me/964010250409758734)
