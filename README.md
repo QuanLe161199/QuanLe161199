@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Quan Le
+- 👋 Hi, I’m Nicky Le
 - 🌱 I am a blockchain smart contract Developer & Consultant, writing smart contracts, creating cryptocurrencies, and launching ICOs, with about 2 years of experience with solidity and smart contract development in the ethereum blockchain ecosystem.
 - :book: My expertise:
   + Determining the viability of a blockchain based solution for your business needs
