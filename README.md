@@ -1,17 +1,11 @@
 - 👋 Hi, I’m Nicky Le
-- 🌱 I am a blockchain smart contract Developer & Consultant, writing smart contracts, creating cryptocurrencies, and launching ICOs, with about 2 years of experience with solidity and smart contract development in the ethereum blockchain ecosystem.
+- 🌱 I am a front-end developer, specializing in creating captivating user interfaces and seamless user experiences. With approximately 3 years of experience in front-end development using technologies like HTML, CSS, and JavaScript, along with a solid 3-year proficiency in React, I excel in merging design aesthetics with functional efficiency.
 - :book: My expertise:
-  + Determining the viability of a blockchain based solution for your business needs
-  + Writing smart contract logic code for pretty much anything you can think of.
-  + Decentralized cryptocurrency exchange (DEX)
-  + Front Running / Back-running Bots
-  + DEX based trading bots for cryptocurrency
-  + Binance smart chain development
-  + Smart contract Audit
-  + NFT, IPFS, ERC721, ERC1155 development
-  + Token & Coin development
-  + Staking, yield farming, lottery, prediction smart contracts
+  + Designing intuitive and responsive user interfaces for web applications
+  + Implementing interactive features and animations to elevate user engagement
+  + Proficient in React for building dynamic and efficient web applications
+  + Ensuring cross-browser compatibility and optimizing performance for a smooth user experience
+  + Collaborating closely with UX/UI designers and backend developers to deliver comprehensive web solutions
 - 📫 How to reach me:
-  + Email: quanlv.fw@gmail.com
-  + Linkedln: [linkedin.com/in/quanlv/](https://www.linkedin.com/in/quanlv/)
-  + Discord: [quanlv#5377](https://discord.com/channels/@me/964010250409758734)
+  + Email: nickyle.dev@gmail.com
+  + Linkedln: linkedin.com/in/quanlv/
